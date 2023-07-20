@@ -1,0 +1,28 @@
+{
+  "branch": "minecolonies:technology",
+  "effects": [
+    {
+      "minecolonies:effects/blockhutfletcher": 1
+    }
+  ],
+  "icon": "minecolonies:blockhutfletcher",
+  "requirements": [
+    {
+      "building": "shepherd",
+      "level": 1
+    },
+    {
+      "building": "cowboy",
+      "level": 1
+    },
+    {
+      "building": "chickenherder",
+      "level": 1
+    },
+    {
+      "item": "minecraft:string",
+      "quantity": 16
+    }
+  ],
+  "researchLevel": 1
+}

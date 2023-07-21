@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key":{
+        "#":{
+            "item":"minecraft:leather"
+        },
+        "X":{
+            "item":"tripwire_hook"
+        },
+        "A":{
+            "item":"minecraft:string"
+        }
+    },
+    "pattern":[
+        "###",
+        "XAX"
+    ],
+    "result":{
+        "item":"minecraft:saddle"
+    }
+}
